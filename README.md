@@ -9,3 +9,5 @@
 4. User profile page
     I. where history of user entry.
     II. Notification/reminder setting.
+
+    Moving to api setup
