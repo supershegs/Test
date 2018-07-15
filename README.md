@@ -1,12 +1,11 @@
-Project Name: My Diary
-Project Overview:  MyDiary is an online journal where users can pen down their thoughts and feelings.  
-    Required Features 
-Users can create an account and log in.  
-Users can view all entries to their diary.  
-Users can view the contents of a diary entry.  
-Users can add or modify an entry. 
 
-Having two section
-The front-end and back-end
-the UI design are inside the UI folder
-Testing
+   MyDiary UI Required Features
+1. User sign up account page design
+2. User sign in account page design
+3. User diary Page design
+    I. where user can view his/her list of entry.
+    II. where user can view an entry to read in full.
+    III. where use can add and modify an entry.
+4. User profile page
+    I. where history of user entry.
+    II. Notification/reminder setting.
